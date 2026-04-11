@@ -1,0 +1,13 @@
+{
+  "python.defaultInterpreterPath": "python",
+  "python.linting.enabled": true,
+  "python.analysis.diagnosticMode": "workspace",
+  "python.analysis.useLibraryCodeForTypes": true,
+  "python.analysis.stubPath": "",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.python",
+    "editor.formatOnSave": true
+  },
+  "python.analysis.typeCheckingMode": "basic",
+  "pylance.analysis.diagnosticsMode": "workspace"
+}
